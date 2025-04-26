@@ -1,3 +1,8 @@
+//Kamil AvH
+//Chirpstack v4
+//payload for Dragino TrackerD (firmware min. 1.4.7)
+
+
 // Helper: Function to convert byte array to hexadecimal UUID
 // Aide : Fonction pour convertir tableau de bytes en UUID hexadécimal
 function bytesToHex(bytes) {
